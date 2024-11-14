@@ -1,0 +1,13 @@
+{
+    "name": "AlloRWA",
+    "symbol": "RWA",
+    "description": "RWA token",
+    "image": "https://raw.githubusercontent.com/your-username/opos-asset/main/assets/DeveloperPortal/image.png",
+    "attributes": [
+      {
+        "trait_type": "Category",
+        "value": "Utility Token"
+      }
+    ]
+  }
+  

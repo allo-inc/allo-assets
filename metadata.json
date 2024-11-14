@@ -2,7 +2,7 @@
     "name": "AlloRWA",
     "symbol": "RWA",
     "description": "RWA token",
-    "image": "https://github.com/allo-inc/allo-assets/blob/eaef5123781c360b9621b995c9f30449d68e5a59/rwa.png",
+    "image": "https://raw.githubusercontent.com/allo-inc/allo-assets/main/rwa.png",
     "attributes": [
       {
         "trait_type": "Category",

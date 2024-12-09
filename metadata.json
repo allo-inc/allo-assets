@@ -1,7 +1,7 @@
 {
-    "name": "AlloRWA",
+    "name": "Allo",
     "symbol": "RWA",
-    "description": "RWA token",
+    "description": "RWA",
     "image": "https://raw.githubusercontent.com/allo-inc/allo-assets/main/rwa.png",
     "attributes": [
       {
